@@ -1,5 +1,5 @@
-//T.C : O(n*logk)
-//S.C : O(k)
+//T.C : O(n*logn)
+//S.C : O(n)
 class Solution {
 public:
     using ll=long long;
