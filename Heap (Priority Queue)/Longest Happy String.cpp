@@ -1,5 +1,5 @@
-//T.C : O(n*logn)
-//S.C : O(n)
+//T.C : O(a+b+c)
+//S.C : O(1)
 class Solution {
 public:
     string longestDiverseString(int a, int b, int c) {
